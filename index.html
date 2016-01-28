@@ -9,9 +9,10 @@ layout: default
     </header>
     <section class="wrapper style4 container">
         <ul class="posts">
-          {% for post in site.posts %}
+          {% for post in site.posts reversed %}
             <li class="wrapper {% if forloop.first %} style2 {% else %} style1 {% endif %}">
               <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+              <h3>{{ post.level | upcase }}</h3>
                 {{ post.excerpt }}
                 <section class="special">
                     <ul class="buttons">

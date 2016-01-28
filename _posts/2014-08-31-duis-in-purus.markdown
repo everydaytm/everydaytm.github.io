@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Duis in purus"
+title:  "2 - Your email account"
 date:   2014-09-07 14:36:23
+level:  beginner
 categories: Duis
 ---
 <span class="image featured"><img src="/images/pic01.jpg" alt=""></span>

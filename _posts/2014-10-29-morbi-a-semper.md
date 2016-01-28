@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Morbi a Semper"
-date:   2014-08-31 14:36:23
+title:  "3 - Your laptop"
+level:  expert
+date:   2014-10-29 14:36:23
 ---
 
 <span class="image featured"><img src="/images/pic03.jpg" alt=""></span>
